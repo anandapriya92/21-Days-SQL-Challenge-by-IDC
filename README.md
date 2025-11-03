@@ -1,1 +1,1 @@
-# 21-Days-SQL-Challenge-by-IDC
+#21 Days SQL Challenge (Beginner → Advanced)
