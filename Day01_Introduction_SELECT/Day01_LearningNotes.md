@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 Topics Covered
-- Basic SELECT statements  
+- Basic SELECT statements
 - Choosing columns  
 - Viewing table structure  
 
